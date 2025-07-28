@@ -1,24 +1,26 @@
-![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Yousef%20Mekawy's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
+![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Haker%27s%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20El_Haker&descAlignY=60)
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/YousefMekawy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=👋+My+name+is+Yousef+El+Mekawy;💻+I+am+frontend+developer;🚀+أهلاً+بيك+في+عالمي+El+Haker;🔥+متنساش+تتابع+program+in+you+self+🎥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=👋+My+name+is+El-Haker;💻+I+am+a+frontend+developer;🚀+أهلاً+بيك+في+عالمي+El-Haker;🔥+متنساش+تتابع+El-Haker+🎥" alt="El Haker profile typing animation" />
   </a>
 </p>
 
+---
 
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالمي
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالم El-Haker
 
-أنا يوسف مكاوي،
-مبرمج صغير بس دماغ كبيرة 💣، 
-وصاحب قناة **Program in your self**.  
-لو بتدور على البرمجة بطعم مختلف... يبقى أنت في المكان الصح 🎯.
+أنا الهاكر،  
+مبرمج صغير بس دماغ كبيرة 💣  
+وصاحب قناة **El-Haker** على يوتيوب.  
+لو بتدور على البرمجة بطعم مختلف... يبقى أنت في المكان الصح 🎯
 
 ---
 
 ## 💻 أعمالي ومشاريعي
 
-- 🔥 **El Haker Academy**: مش بس هتتعلم برمجة… هتصنع عقل مبرمج.
+- 🔥 **El-Haker Academy**: مش بس هتتعلم برمجة… هتصنع عقل مبرمج.
 - 🌱 **موقع استكشاف النباتات**: لكل محبي الطبيعة والبرمجة.
 - 🌐 **موقع فرونت إند تعليمي**: خليك محترف واجهات.
 - 🧮 **تطبيق آلة حاسبة**: بسيط وفعال.
@@ -40,31 +42,31 @@
 
 ---
 
-## 🔥 أهدافي
+## 🎯 أهدافي
 
 - بناء منصة تعليمية متكاملة.
-- تعليم 100+ طالب برمجة من الصفر.
-- المشاركة في مسابقات البرمجة والفوز بيها.
+- تعليم +100 طالب برمجة من الصفر.
+- المشاركة في مسابقات برمجة والفوز فيها.
 
 ---
 
 ## 🎮 شوية حاجات عني
 
-- بحب أشرح البرمجة بطريقتي.
-- مبرمج بحب التحدي.
-  
+- بحب أشرح البرمجة بطريقتي الخاصة.
+- مبرمج بيحب التحديات.
+- بشوف إن البرمجة مش كود... البرمجة طريقة تفكير 💡
 
 ---
 
 ## 📫 تواصل معايا
 
-- 📧 yosefmekawy987@gmail.com  
-- 🎥 قناة اليوتيوب: **Program in your self**  
-- 🌍  موقع **El Haker Academy**
-[https://github.com/Yousef-Mekawy/El-Haker-Academy..git](https://yousef-mekawy.github.io/El-Haker-Acadmy./)
+- 📧 الإيميل: e02854699@gmail.com  
+- 🎥 يوتيوب: [**El-Haker**](https://www.youtube.com/@El_Haker-u2n)
+- 🌍 موقع الأكاديمية: [El Haker Academy](https://el-haker-1.github.io/El-Haker-Academy/)
+- 💻 GitHub: [El Haker](https://github.com/El-Haker-1)
 
 ---
 
 > 💡 "البرمجة مش كود... البرمجة طريقة تفكير."
 
-🃏 **El Haker – البرمجة على طريقتي.**
+🃏 **El-Haker – البرمجة على طريقتي.**
