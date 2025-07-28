@@ -60,10 +60,10 @@
 
 ## 📫 تواصل معايا
 
-- 📧 الإيميل: e02854699@gmail.com  
+- 📧 الإيميل: elhakeracademy@gmail.com  
 - 🎥 يوتيوب: [**El-Haker**](https://www.youtube.com/@El_Haker-u2n)
 - 🌍 موقع الأكاديمية: [El Haker Academy](https://el-haker-1.github.io/El-Haker-Academy/)
-- 💻 GitHub: [El Haker](https://github.com/El-Haker-1)
+- 💻 GitHub: [El Haker](https://github.com/El-Haker-Academy)
 
 ---
 
